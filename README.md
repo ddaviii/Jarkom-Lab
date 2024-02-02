@@ -1,4 +1,4 @@
-# Jarkom-Modul-4-E01-2021
+# Jarkom-Modul-4-E01-2024
 
 - Clarence 05111940000104
 - Nur Putra Khanafi 05111940000020
@@ -6,8 +6,8 @@
 
 ### List
 
-1. [Problem VLSM dengan CPT](https://github.com/nurputrak/Jarkom-Modul-4-E01-2021#vlsmvariable-length-subnet-masking)
-2. [Problem CIDR dengan GNS3](https://github.com/nurputrak/Jarkom-Modul-4-E01-2021#CIDR)
+1. [Problem VLSM dengan CPT](https://github.com/ddaviii/Jarkom-Lab#vlsmvariable-length-subnet-masking)
+2. [Problem CIDR dengan GNS3](https://github.com/ddaviii/Jarkom-Lab#CIDR)
 
 ## Pembagian Subnet
 
